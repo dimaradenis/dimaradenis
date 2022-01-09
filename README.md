@@ -2,7 +2,7 @@
 
 Hi there, I'm **Denis Lizard Sambawo Dimara**, a Programming, Design,Editor and Tech Enthusiast . Everyday I learn new things about the programming world . I'm currently studying at a university in Surabaya .Since I was in elementary school, I like to play computers, so I made Informatics Engineering as my major . Besides that , I have hobbies in Cinematography and photography .
 
-- 💻 I'm an Editor and Graphic Designer
+- 💻 I'm an Editor and UI/UX Designer
 - 🌱 I'm currently learning about FrondEnd Development
 - 💼 I'm currently studying at a university in Surabaya
 - 💬 Ask me about anything, I am happy to help if i could.
